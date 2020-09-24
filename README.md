@@ -1,5 +1,5 @@
 # tutorials-app
-A project website that I started building to learning in Django
+A project website that I started building to learn Django
 
 ## To run
 Get your python environement ready (pip install django).
